@@ -16,11 +16,11 @@ The dashboard aims to address several key business questions:
 
 ##**Skills Demonstrated**
 The dashboard has demonstrated a strong proficiency in the following areas:
-Business Intelligence: Effective use of a BI tool (likely Power BI) to connect to data and build a multi-page report.
+1  Business Intelligence: Effective use of a BI tool (likely Power BI) to connect to data and build a multi-page report.
 Data Visualization: Selection of appropriate charts (bar, line, donut) to represent different types of data effectively. The design is clean, with good use of color and spacing.
-KPI Development: Identification and calculation of key performance indicators (KPIs) such as Total Revenue, Average Order Value, and Average Pizzas per Order.
+2  KPI Development: Identification and calculation of key performance indicators (KPIs) such as Total Revenue, Average Order Value, and Average Pizzas per Order.
 Dashboard Design: Creation of an intuitive and user-friendly interface with clear navigation ("Home," "Best and Worst Seller") and interactive filters (Pizza Category, Date).
-Data Analysis: Summarizing key findings directly on the dashboard (e.g., "Busiest Day and Time," "Best Seller" summaries), which helps guide the end-user to the most important insights.
+3  Data Analysis: Summarizing key findings directly on the dashboard (e.g., "Busiest Day and Time," "Best Seller" summaries), which helps guide the end-user to the most important insights.
 
 ##**Data Transformation**
 Calculated Columns/Measures:
